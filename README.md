@@ -3,40 +3,44 @@ Investing in Waves and Ice Cream!
 
 ## Objective 
 After a lovely vacation in Hawaii, I came up with a business plan to open a Surf n' Shake shop in Oahu.  A potential investor wanted an analysis of the weather in the area.  
-    ### Original Analysis: 
-        - Retrieve the Precipitation Data
-        - Find the Number of Stations
-        - Determine the Most Active Stations
-        - Find Low, High, and Average Temperatures
-        - Build Flask Routes
+### Original Analysis: 
+    - Retrieve the Precipitation Data
+    - Find the Number of Stations
+    - Determine the Most Active Stations
+    - Find Low, High, and Average Temperatures
+    - Build Flask Routes
 
 After presenting my original analysis, the investor requested an analysis of the temperature data for June and December. The is to determine if the business will be sustainable year-round.
-    ### Additonal Analysis:
-        - Summary Statistics for June
-        - Summary Statistics for December
+### Additonal Analysis:
+    - Summary Statistics for June
+    - Summary Statistics for December
 
 ## Resources
-    ### Files: 
-    climate_analysis.ipynb, hawaii.sqlite
+### Files: 
+climate_analysis.ipynb, hawaii.sqlite
 
-    ### Software/Dependecies: 
-    Python 3.9.7, Jupyter Notebook 6.4.5, Flask 1.1.2, Pandas 1.3.4, Numpy 1.20.3, 
-    Matplotlib 3.4.3, SQLAlchemy 1.4.22, Visual Studio Code 1.64.0
+### Software/Dependecies: 
+Python 3.9.7, Jupyter Notebook 6.4.5, Flask 1.1.2, Pandas 1.3.4, Numpy 1.20.3, 
+Matplotlib 3.4.3, SQLAlchemy 1.4.22, Visual Studio Code 1.64.0
 
 ## Results
 
 ### Exploratory Climate Analysis
 - Plot of Precipitaion Data by Date
-    plot
+
+![plot](https://user-images.githubusercontent.com/33010018/154778152-623bc864-5b82-4510-8563-4fdfab94b0bf.png)
 
 - Summary Statistics For the Precipitation Data
-    stats_prec
+
+![stats_prec](https://user-images.githubusercontent.com/33010018/154778174-055eb1d9-31d6-4aa6-8d94-40455e41c142.png)
 
 - Most Active Stations
-    most_active
+
+![most_active](https://user-images.githubusercontent.com/33010018/154778189-d96f00ae-f373-4d77-a8cf-8b04447c82c3.png)
 
 - Histogram of the Temperature Observation Data for the Most Active Station
-    histogram
+
+![histogram](https://user-images.githubusercontent.com/33010018/154778202-8ee7fde1-21ba-4e5f-b493-722672cd5f8c.png)
 
 ### June and December Analysis
     - June
