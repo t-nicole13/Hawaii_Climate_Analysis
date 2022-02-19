@@ -43,36 +43,42 @@ Matplotlib 3.4.3, SQLAlchemy 1.4.22, Visual Studio Code 1.64.0
 ![histogram](https://user-images.githubusercontent.com/33010018/154778202-8ee7fde1-21ba-4e5f-b493-722672cd5f8c.png)
 
 ### June Analysis
-- June Temperatures Statistics
+- June Temperature Statistics
 
 ![june_temps](https://user-images.githubusercontent.com/33010018/154784769-5b6d160c-c3aa-4429-9cd9-4579f62ea8c2.png)
 
-- June Precipitation Query
-
-![j_prcp_query](https://user-images.githubusercontent.com/33010018/154784817-e088c06d-9758-4e47-bf56-0e9ab62a4998.png)
-
-- June Precipitaion Statistics
+- June Precipitation Statistics
 
 ![j_prcp_stats](https://user-images.githubusercontent.com/33010018/154784843-9d892398-2840-4f5a-9105-010f925cfcc1.png)
 
 ### December Analysis    
 
-- December Temperatures Statistics
+- December Temperature Statistics
 
 ![dec_temps](https://user-images.githubusercontent.com/33010018/154784884-9c95c3ae-47a1-4e56-9ed0-84bc945950aa.png)
+
+- December Precipitation Statistics
+
+![d_prcp_stats](https://user-images.githubusercontent.com/33010018/154784937-e06252da-58d3-4041-b622-d2674a4ddcc0.png)
+
+### June and December Weather Differences
+- Per the Precipitation Statistics table, December had a significantly higher average precipitation than June. 
+- Per the Temperatures Statistics table, June's minimum temperature was 8 degrees higher than December's.
+- Based on the count for Temperatures Statistics, we were given alot more weather data for June than December.
+
+## Summary
+### Last 12 Months of Precipitation Data
+Precipitation appears to be at its lowest in early Jan 2017.  Precipitation was at its peak between Sept 2016 and Oct 2016.
+
+### June and December Additional Queries 
+
+- June Precipitation Query
+
+![j_prcp_query](https://user-images.githubusercontent.com/33010018/154784817-e088c06d-9758-4e47-bf56-0e9ab62a4998.png)
 
 - December Precipitation Query
 
 ![d_prcp_query](https://user-images.githubusercontent.com/33010018/154784898-7eaa07d8-d9a0-4265-8f46-83de11bc0bba.png)
 
-- December Precipitaion Statistics
-
-![d_prcp_stats](https://user-images.githubusercontent.com/33010018/154784937-e06252da-58d3-4041-b622-d2674a4ddcc0.png)
-
-
-
-## Summary
-### Last 12 Months of Precipitation Data
-Precipitation appears to be at its lowest between Dec 2016 and Jan 2017.  Precipitaion was at its peak between Aug 2016 and Oct 2016.
-
-### June and December data
+### June and December Data
+With the exception of the minimum temperature, there wasn't a significant difference in temperature between June and December.  The weather seemed to stay consistent in both months.  However, there appears to be a significant difference in the amount of precipitation recorded in both months.
