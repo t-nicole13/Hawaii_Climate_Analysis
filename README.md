@@ -42,9 +42,33 @@ Matplotlib 3.4.3, SQLAlchemy 1.4.22, Visual Studio Code 1.64.0
 
 ![histogram](https://user-images.githubusercontent.com/33010018/154778202-8ee7fde1-21ba-4e5f-b493-722672cd5f8c.png)
 
-### June and December Analysis
-    - June
-    - December
+### June Analysis
+    - June Temperatures Statistics
+    
+    ![june_temps](https://user-images.githubusercontent.com/33010018/154784769-5b6d160c-c3aa-4429-9cd9-4579f62ea8c2.png)
+
+    - June Precipitation Query
+    
+    ![j_prcp_query](https://user-images.githubusercontent.com/33010018/154784817-e088c06d-9758-4e47-bf56-0e9ab62a4998.png)
+
+    - June Precipitaion Statistics
+    
+    ![j_prcp_stats](https://user-images.githubusercontent.com/33010018/154784843-9d892398-2840-4f5a-9105-010f925cfcc1.png)
+
+### December Analysis    
+    
+    - December Temperatures Statistics
+    
+    ![dec_temps](https://user-images.githubusercontent.com/33010018/154784884-9c95c3ae-47a1-4e56-9ed0-84bc945950aa.png)
+
+    - December Precipitation Query
+    
+    ![d_prcp_query](https://user-images.githubusercontent.com/33010018/154784898-7eaa07d8-d9a0-4265-8f46-83de11bc0bba.png)
+
+    - December Precipitaion Statistics
+    
+    ![d_prcp_stats](https://user-images.githubusercontent.com/33010018/154784937-e06252da-58d3-4041-b622-d2674a4ddcc0.png)
+
 
 
 ## Summary
