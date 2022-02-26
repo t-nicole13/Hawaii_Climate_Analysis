@@ -70,7 +70,7 @@ Matplotlib 3.4.3, SQLAlchemy 1.4.22, Visual Studio Code 1.64.0
 ### Last 12 Months of Precipitation Data
 Precipitation appears to be at its lowest in early Jan 2017.  Precipitation was at its peak between Sept 2016 and Oct 2016.
 
-### June and December Additional Queries 
+### June and December Additional Queries # 1
 
 - June Precipitation Query
 
@@ -80,5 +80,19 @@ Precipitation appears to be at its lowest in early Jan 2017.  Precipitation was 
 
 ![d_prcp_query](https://user-images.githubusercontent.com/33010018/154784898-7eaa07d8-d9a0-4265-8f46-83de11bc0bba.png)
 
+
+### June and December Additional Queries # 2
+- June Precipitation Count
+
+![jun_count](https://user-images.githubusercontent.com/33010018/155856176-881ae161-47f2-46aa-a665-48a2294f3893.png)
+
+
+- December Precipitation Count
+
+![dec_count](https://user-images.githubusercontent.com/33010018/155856205-099f4c48-c4d8-4310-9c2c-d958f812d0a0.png)
+
 ### June and December Data
 With the exception of the minimum temperature, there wasn't a significant difference in temperature between June and December.  The weather seemed to stay consistent in both months.  However, there appears to be a significant difference in the amount of precipitation recorded in both months.
+
+
+
