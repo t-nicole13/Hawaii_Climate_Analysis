@@ -1,19 +1,16 @@
-# surfs_up
-Investing in Waves and Ice Cream!
+# Hawaii_Climate_Analysis
 
 ## Objective 
-After a lovely vacation in Hawaii, I came up with a business plan to open a Surf n' Shake shop in Oahu.  A potential investor wanted an analysis of the weather in the area.  
-### Original Analysis: 
-    - Retrieve the Precipitation Data
-    - Find the Number of Stations
-    - Determine the Most Active Stations
-    - Find Low, High, and Average Temperatures
-    - Build Flask Routes
+An analysis of the weather in Oahu, HI.  
 
-After presenting my original analysis, the investor requested an analysis of the temperature data for June and December. The is to determine if the business will be sustainable year-round.
-### Additonal Analysis:
-    - Summary Statistics for June
-    - Summary Statistics for December
+### Tasks: 
+    1. Retrieve the Precipitation Data
+    2. Find the Number of Stations
+    3. Determine the Most Active Stations
+    4. Find Low, High, and Average Temperatures
+    5. Build Flask Routes
+    6. Summary Statistics for June
+    7. Summary Statistics for December
 
 ## Resources
 ### Files: 
